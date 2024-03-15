@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/nh25-website/static/css/main.f068d83d.css",
+    "main.js": "/nh25-website/static/js/main.c4f0aab3.js",
+    "static/media/logo1.png": "/nh25-website/static/media/logo1.7ed42caf1761f7568a18.png",
+    "static/media/NHLOGO.png": "/nh25-website/static/media/NHLOGO.ef3a440dd6876c3197e5.png",
+    "static/media/slick.svg": "/nh25-website/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/nh25-website/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/nh25-website/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/nh25-website/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/nh25-website/index.html",
+    "main.f068d83d.css.map": "/nh25-website/static/css/main.f068d83d.css.map",
+    "main.c4f0aab3.js.map": "/nh25-website/static/js/main.c4f0aab3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f068d83d.css",
+    "static/js/main.c4f0aab3.js"
+  ]
+}
