@@ -46,6 +46,7 @@ const Work = () => {
                 <ul>
                     <li>
                     • Collaborated with global product owners to grasp priorities and successfully delivered on requirements</li>
+                    <li>• Accenture Extra Mile Award - For successfully delivering exceptional outcomes by collaborating with clients</li>
                     <li>• DXC Champ Award - Honored with the FY24, Q3 DXC Champs Award for excellent performance</li>
                 <li>• Recognized consistently for performance excellence</li>
     </ul>
